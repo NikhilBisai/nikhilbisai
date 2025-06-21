@@ -19,6 +19,13 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="Excel" />
 </p>
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilBisai&theme=dracula&area=true&hide_border=false" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
